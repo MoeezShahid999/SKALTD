@@ -135,6 +135,14 @@ export const Contact = (props) => {
             <div className="contact-item">
               <p>
                 <span>
+                  Director{" "}
+                </span>
+                {props.data ? props.data.director : "loading"}
+              </p>
+            </div>
+            <div className="contact-item">
+              <p>
+                <span>
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
