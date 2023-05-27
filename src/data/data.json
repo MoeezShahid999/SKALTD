@@ -171,10 +171,20 @@
     "registration": "14839340",
     "phone": "+44 7470 190721",
     "email": "skalimited24gmail.com",
-    "director":"Shehla Khan",
+    "director": "Shehla Khan",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
+  },
+  "Complaint": {
+    "heading": "Our complaints process",
+    "description": "We’ll give your complaint our full attention and keep you up to date with progress. It’s important to us that we resolve the issue for you as quickly as possible.",
+    "deatils": [
+      "Step 1: Contact us and let us know what has happened and what you want us to do to put it right. Depending on your complaint type, you'll be able to contact our team by email of telephone.",
+      "Step 2: We’ll work with you to resolve the matter as quickly as we can.",
+      "Step 3: We will let you know what we have done to resolve your issue and bring the matter to a close."
+    ],
+    "footerDesc": "If after that, you’re unhappy with the outcome or it’s taken us longer than 8 weeks to reach a solution, you have the right to take matters further. We work with a number of ombudsman and dispute resolution providers who will consider complaints about our range of service, products and financial services matters."
   },
   "Features": [
     {
