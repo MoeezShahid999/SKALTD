@@ -3,6 +3,13 @@
     "title": "We are a Gas & Power Company",
     "paragraph": "We are one of the UK’s leading independent consultancies, helping businesses secure the most comprehensive savings solutions from utilities contract management and procurement to merchant services, waste management, business loans and facilities maintenance."
   },
+  "Introduction": {
+    "title": "Introduction",
+    "description": [
+      "We aim to provide a excellent service for all of our customers. However, we recognise that occasionally we may not achieve every aspect of that goal. Should that happen we have in place this complaint procedure to ensure your concerns are both addressed and resolved.",
+      "We set out below how our complaint procedure works and the steps we ask you to take if you wish to complain. We also set out your rights to complain to the Ombudsman should you not be satisfied with the outcome of our review of your complaint."
+    ]
+  },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "Why": [
@@ -178,15 +185,15 @@
   },
   "Complaint": {
     "heading": "Our complaints process",
-    "description": "We’ll give your complaint our full attention and keep you up to date with progress. It’s important to us that we resolve the issue for you as quickly as possible.",
-    "deatils": [
-      "Step 1: Contact us and let us know what has happened and what you want us to do to put it right. Depending on your complaint type, you'll be able to contact our team by email of telephone.",
-      "Step 2: We’ll work with you to resolve the matter as quickly as we can.",
-      "Step 3: We will let you know what we have done to resolve your issue and bring the matter to a close.",
-      "Step 4: Whatever stage has been reached in the above process eight weeks after we first received your complaint, we shall send you an eight-week letter. Once you have received that letter you are entitled to complain to the Ombudsman, more details as to that step are below.",
-      "Step 5: If you chose to reject our decision (whether the original decision or a revised decision) we will send you a deadlock letter. This letter confirms that you have rejected our decision as to your complaint. Once you receive this letter you are entitled to complain to the Ombudsman."
-    ],
-    "footerDesc": "If after that, you’re unhappy with the outcome or it’s taken us longer than 8 weeks to reach a solution, you have the right to take matters further. We work with a number of ombudsman and dispute resolution providers who will consider complaints about our range of service, products and financial services matters."
+    "description": "We’ll give your complaint our full attention and keep you up to date with progress. It’s important to us that we resolve the issue for you as quickly as possible."
+  },
+  "Ombudsman": {
+    "title": "The Ombudsman",
+    "description": [
+      "If you are a microbusiness you are entitled to take your complaint to the Ombudsman should your complaint not be resolved either a eight weeks after the complaint was first made to us or once you have received a deadlock letter from us, whichever is sooner.",
+      "The Ombudsman is an independent body that decides the outcome of disputes between us and our microbusiness customers. There is no charge to you for the Ombudsman’s services.",
+      "If you accept the Energy Ombudsman’s decision we must then honour that decision. You are not though bound to accept the Energy Ombudsman’s decision and instead may choose to take other action such as litigation."
+    ]
   },
   "Features": [
     {

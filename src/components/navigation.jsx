@@ -1,30 +1,33 @@
 export const Navigation = (props) => {
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container'>
-        <div className='navbar-header'>
+    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      <div className="container">
+        <div className="navbar-header">
           <button
-            type='button'
-            className='navbar-toggle collapsed'
-            data-toggle='collapse'
-            data-target='#bs-example-navbar-collapse-1'
+            type="button"
+            className="navbar-toggle collapsed"
+            data-toggle="collapse"
+            data-target="#bs-example-navbar-collapse-1"
           >
-            {' '}
-            <span className='sr-only'>Toggle navigation</span>{' '}
-            <span className='icon-bar'></span>{' '}
-            <span className='icon-bar'></span>{' '}
-            <span className='icon-bar'></span>{' '}
+            {" "}
+            <span className="sr-only">Toggle navigation</span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
           </button>
-          <a className='navbar-heading navbar-brand page-scroll' href='#page-top'>
+          <a
+            className="navbar-heading navbar-brand page-scroll"
+            href="#page-top"
+          >
             SKA Ltd
-          </a>{' '}
+          </a>{" "}
         </div>
 
         <div
-          className='collapse navbar-collapse'
-          id='bs-example-navbar-collapse-1'
+          className="collapse navbar-collapse"
+          id="bs-example-navbar-collapse-1"
         >
-          <ul className='nav navbar-nav navbar-right'>
+          <ul className="nav navbar-nav navbar-right">
             {/* <li>
               <a href='#features' className='page-scroll'>
                 Features
@@ -36,12 +39,17 @@ export const Navigation = (props) => {
               </a>
             </li> */}
             <li>
-              <a href='#services' className='page-scroll'>
+              <a href="#introduction" className="page-scroll">
+                Introduction
+              </a>
+            </li>
+            <li>
+              <a href="#services" className="page-scroll">
                 Services
               </a>
             </li>
             <li>
-              <a href='#portfolio' className='page-scroll'>
+              <a href="#portfolio" className="page-scroll">
                 Gallery
               </a>
             </li>
@@ -56,12 +64,17 @@ export const Navigation = (props) => {
               </a>
             </li> */}
             <li>
-              <a href='#complaint' className='page-scroll'>
+              <a href="#complaint" className="page-scroll">
                 Complaints
               </a>
             </li>
             <li>
-              <a href='#contact' className='page-scroll'>
+              <a href="#ombudsman" className="page-scroll">
+                Ombudsman
+              </a>
+            </li>
+            <li>
+              <a href="#contact" className="page-scroll">
                 Contact
               </a>
             </li>
@@ -69,5 +82,5 @@ export const Navigation = (props) => {
         </div>
       </div>
     </nav>
-  )
-}
+  );
+};
